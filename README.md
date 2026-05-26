@@ -55,7 +55,8 @@ AI-powered smart exam proctoring system using Python, OpenCV, Tkinter, and SQLit
 
 # 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/nagamani-g-m-0974462a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn: www.linkedin.com/in/nagamanigm
+
 - Email: nagamanigm07@gmail.com
 
 ---
