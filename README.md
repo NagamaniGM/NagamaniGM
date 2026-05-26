@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Nagamani G M 👋
 
-<!--
-**NagamaniGM/NagamaniGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering Student at PESITM, Shimoga
+| Graduation - June 2026
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, AI, Machine Learning, Web Development and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Skills
+
+## Programming Languages
+- Python
+- C
+- SQL
+
+## Web Technologies
+- HTML
+- CSS
+- Flask
+
+## Tools & Technologies
+- Git
+- GitHub
+- VS Code
+
+## Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Software Engineering
+
+---
+
+# 📌 Projects
+
+## 🔹 Multi-Modal Cross-Platform Personality Analysis System
+Cross-platform personality analysis system with deception detection concepts.
+
+## 🔹 Affordable Medicine Recommender System using Machine Learning
+A full stack artificial intelligence web application designed to serve as a first-level medical assistant for underprivileged and rural patients who lack access to affordable healthcare facilities.
+
+## 🔹AI-Based Smart Exam Proctoring and Suspicious Activity Detection System
+AI-powered smart exam proctoring system using Python, OpenCV, Tkinter, and SQLite.
+
+---
+
+# 📚 Currently Learning
+- Data Structures and Algorithms
+- Advanced Python
+- Cloud Fundamentals
+- Full Stack Development
+
+---
+
+# 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/nagamani-g-m-0974462a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: nagamanigm07@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
