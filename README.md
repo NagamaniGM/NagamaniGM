@@ -60,5 +60,6 @@ AI-powered smart exam proctoring system using Python, OpenCV, Tkinter, and SQLit
 - Email: nagamanigm07@gmail.com
 
 ---
+![Banner](https://raw.githubusercontent.com/NagamaniGM/NagamaniGM/main/banner.png)
 
 ⭐ Thank you for visiting my profile!
